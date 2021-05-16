@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Vivekk07/nature-outdoor/issues"
   },
-  "homepage": "https://github.com/Vivekk07/nature-outdoor#readme"
+  "homepage": "https://github.com/Vivekk07/nature-outdoor#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  },
+  "dependencies": {}
 }
